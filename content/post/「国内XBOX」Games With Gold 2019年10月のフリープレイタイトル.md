@@ -11,7 +11,7 @@ tags:
   - XBOX GAMES WITH GOLD
 keywords:
   - 国内XBOX GAMES WITH GOLD
-thumbnail: /gwg.jpg
+thumbnail: /images/local/gwg.jpg
 thumbnailImagePosition: left
 ---
 
