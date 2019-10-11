@@ -14,7 +14,7 @@ tags:
   - 海外XBOX DEALS WITH GOLD
 keywords:
   - 海外XBOXセール
-thumbnail: /images/local/gwg.jpg
+thumbnail: /gwg.jpg
 thumbnailImagePosition: left
 ---
 

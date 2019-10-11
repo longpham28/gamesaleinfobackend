@@ -12,7 +12,7 @@ tags:
   - その他
 keywords:
   - 国内PSセール
-thumbnail: /images/local/waon.jpg
+thumbnail: /waon.jpg
 thumbnailImagePosition: left
 ---
 

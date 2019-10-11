@@ -15,7 +15,7 @@ tags:
 keywords:
   - 北米PSセール
   - PSVR
-thumbnail: /images/local/psvr.jpg
+thumbnail: /psvr.jpg
 thumbnailImagePosition: left
 ---
 

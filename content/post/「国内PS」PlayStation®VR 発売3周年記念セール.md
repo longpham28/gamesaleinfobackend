@@ -13,7 +13,7 @@ tags:
 keywords:
   - 国内PSセール
   - PSVR
-thumbnail: /images/local/psvr_square.png
+thumbnail: /psvr_square.png
 thumbnailImagePosition: left
 ---
 

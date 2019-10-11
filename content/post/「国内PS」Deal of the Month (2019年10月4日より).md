@@ -12,7 +12,7 @@ tags:
   - 国内
 keywords:
   - 国内PSセール
-thumbnail: /images/local/ps4_con_white.jpg
+thumbnail: /ps4_con_white.jpg
 thumbnailImagePosition: left
 ---
 

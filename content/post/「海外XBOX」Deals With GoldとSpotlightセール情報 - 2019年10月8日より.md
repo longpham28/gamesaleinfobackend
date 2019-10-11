@@ -13,7 +13,7 @@ tags:
 keywords:
   - 海外XBOX DEALS WITH GOLD
   - 海外XBOX Spotlight
-thumbnail: /images/local/xbox.png
+thumbnail: /xbox.png
 thumbnailImagePosition: left
 #thumbnail: //example.com/image.jpg
 ---
