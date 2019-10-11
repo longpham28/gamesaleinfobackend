@@ -15,7 +15,7 @@ tags:
 keywords:
   - 北米PSセール
   - Warner Bros
-thumbnail: /wb.jpg
+thumbnail: /images/local/wb.jpg
 thumbnailImagePosition: left
 ---
 

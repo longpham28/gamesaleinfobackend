@@ -11,7 +11,7 @@ tags:
   - XBOX DEALS WITH GOLD
 keywords:
   - 国内XBOX DEALS WITH GOLD
-thumbnail: /xbox.png
+thumbnail: /images/local/xbox.png
 thumbnailImagePosition: left
 ---
 

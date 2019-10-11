@@ -10,7 +10,7 @@ tags:
 keywords:
   - Epic Game Store
   - PCゲームセール
-thumbnail: /surviving_mars.jpg
+thumbnail: /images/local/surviving_mars.jpg
 ---
 
 Epic Game Store にて 10 月 17 まで Surviving Mars が無料で配信されています
