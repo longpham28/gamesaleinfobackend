@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: longpham28/longpham28.github.io
+  repo: longpham28/gamesaleinfobackend
   site_domain: romantic-tereshkova-9b8311.netlify.com
   branch: master # Branch to update (optional; defaults to master)
 publish_mode: editorial_workflow
