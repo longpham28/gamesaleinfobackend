@@ -2,7 +2,7 @@ baseurl = "https://longpham28.github.io/"
 title = "ゲームセール情報"
 languageCode = "ja"
 paginate = "5" # Number of posts per page
-theme = "mainroad"
+theme = "mainroad1"
 disqusShortname = "gamesaleinfo"
 googleAnalytics = "UA-149619294-1"
 
