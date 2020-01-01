@@ -3,6 +3,8 @@ title: '[PC]Epic Games StoreにてDarksiders 1, 2およびSteepが無料'
 date: 2020-01-01T23:03:43.999Z
 image: >-
   /images/uploads/diesel_productv2_darksiders_home_heroecarousel-1920x1080-33c0176573f7d7248a1784009ed22bf7566feb72.jpg
+thumbnail: >-
+  /images/uploads/diesel_productv2_darksiders_home_heroecarousel-1920x1080-33c0176573f7d7248a1784009ed22bf7566feb72.jpg
 tags:
   - PC
   - Epic Games Store
