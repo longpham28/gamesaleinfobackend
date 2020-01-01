@@ -2,13 +2,14 @@
 title: '[PC]Humble StoreにてEpic Beats Saleセールが実施されています'
 date: 2020-01-01T11:58:29.503Z
 image: /images/uploads/2bb61eed447d93306171fd3d342daefa17ef2bb2.jpeg
+thumbnail: /images/uploads/2bb61eed447d93306171fd3d342daefa17ef2bb2.jpeg
 tags:
   - PC
   - Humble Store
 categories:
   - PC
 ---
-Humble StoreにてEpic Beats Saleセールが実施されています。
+Humble Storeにて[Epic Beats Saleセール](https://www.humblebundle.com/store/promo/epic-beasts-sale)が実施されています。
 
 <!--more-->
 |タイトル|割引率|セール価格|
