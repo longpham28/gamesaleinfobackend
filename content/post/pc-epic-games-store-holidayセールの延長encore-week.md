@@ -29,10 +29,10 @@ Epic Games Storeにて一部のタイトルにおいて冬セールが[延長さ
 | Afterparty                                        | ¥1,664     | -20%   |
 | Rune II                                           | ¥2,310     | -25%   |
 | Superliminal                                      | ¥1,664     | -20%   |
-| Metro: Last Light Redux                           | \495       | -75%   |
+| Metro: Last Light Redux                           | ¥495       | -75%   |
 | The Walking Dead : The Telltale Definitive Series | ¥2,590     | -50%   |
 | Close To The Sun                                  | ¥1,848     | -40%   |
 | Outward                                           | ¥1,640     | -40%   |
-| Slime Rancher                                     | \792       | -60%   |
+| Slime Rancher                                     | ¥792       | -60%   |
 
 詳細は[ホームページにてご確認ください](https://www.epicgames.com/store/en-US/collection/holiday-sale)
